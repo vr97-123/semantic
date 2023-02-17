@@ -8,7 +8,7 @@ Two pre-trained models, "en_core_web_md" and "en_core_web_sm," are loaded, and t
 
 The third example uses for loops to compare similarity between words in a sentence. 
 
-The fourth example compares similarity scores between "car," "bike," "book," and "bike" using the "en_core_web_md" model. 
+The fourth example compares similarity scores between "car", "bike", "book", and "chair" using the "en_core_web_md" model. 
 
 The program highlights that while for loops can calculate similarity, they may not align with human intuition due to basic word embeddings, and the spaCy models provide more contextual information, accounting for meanings and sentence relationships.
 
